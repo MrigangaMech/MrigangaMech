@@ -1,6 +1,8 @@
+[![MasterHead](https://www.google.com/imgres?q=animated%20masterhead%20coding%20image&imgurl=https%3A%2F%2Fuser-images.githubusercontent.com%2F10498744%2F210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif&imgrefurl=https%3A%2F%2Fgithub.com%2Fabhi01-01&docid=obwGDnOimT9MLM&tbnid=Gql8n76CdpGvJM&vet=12ahUKEwjLtfifhISHAxXSr1YBHeIDBOQQM3oECBcQAA..i&w=1920&h=732&hcb=2&ved=2ahUKEwjLtfifhISHAxXSr1YBHeIDBOQQM3oECBcQAA)
+
 <h1 align="center">Hi 👋, I'm Mriganga!</h1>
 <h3 align="center">A Passionate UI/UX designer || Frontend Developer || Firebase || Adobe XD || Figma || 2x HACKATHON WINNER 🏆</h3>
-
+<img align="right" alt = "Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212747919-84b68444-0d81-46db-a338-7ec50e9dd4cd.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrigangamech&label=Profile%20views&color=0e75b6&style=flat" alt="mrigangamech" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrigangamech" alt="mrigangamech" /></a> </p>
