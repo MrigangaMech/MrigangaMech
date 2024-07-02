@@ -1,4 +1,4 @@
-[![MasterHead](https://www.google.com/imgres?q=animated%20masterhead%20coding%20image&imgurl=https%3A%2F%2Fuser-images.githubusercontent.com%2F10498744%2F210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif&imgrefurl=https%3A%2F%2Fgithub.com%2Fabhi01-01&docid=obwGDnOimT9MLM&tbnid=Gql8n76CdpGvJM&vet=12ahUKEwjLtfifhISHAxXSr1YBHeIDBOQQM3oECBcQAA..i&w=1920&h=732&hcb=2&ved=2ahUKEwjLtfifhISHAxXSr1YBHeIDBOQQM3oECBcQAA)
+[![MasterHead](https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif)](mrigangamech.io)
 
 <h1 align="center">Hi 👋, I'm Mriganga!</h1>
 <h3 align="center">A Passionate UI/UX designer || Frontend Developer || Firebase || Adobe XD || Figma || 2x HACKATHON WINNER 🏆</h3>
